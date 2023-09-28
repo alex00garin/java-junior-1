@@ -1,4 +1,4 @@
-package junior;
+package junior.core_java_fundamentals;
 
 public class OddNumberPrinter {
     public static void main(String[] args) {

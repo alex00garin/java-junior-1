@@ -1,4 +1,4 @@
-package junior;
+package junior.core_java_fundamentals;
 
 import java.util.Scanner;
 
